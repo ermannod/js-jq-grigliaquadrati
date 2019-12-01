@@ -34,6 +34,14 @@
   background-color: red;
 }
 
-span {
-  background-color: white;
+.grey{
+  background-color: grey!important;
+}
+
+button {
+  left: 50%;
+  position: absolute;
+  transform: translateX(-50%);
+  top: 2%;
+  padding: 8px 16px;
 }
