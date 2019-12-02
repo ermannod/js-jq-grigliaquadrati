@@ -9,7 +9,7 @@ $(document).ready(function() {
    //////////////////////////////
    /////     SOLUTION 1    //////
    //////////////////////////////
-   ///For this to work append should be <span class='square grey'></span>  greay class must me added///
+   ///For this to work append should be <span class='square grey'></span>  grey class must me added///
 
 
   // Generate 15 random red background squares
